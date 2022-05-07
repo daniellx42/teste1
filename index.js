@@ -12,6 +12,4 @@
       }).catch(err => {
         console.log(err);
       });
-  }
-
-  getApiGithHubPerfil();
+  };
